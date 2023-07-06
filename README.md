@@ -1,0 +1,3 @@
+# kilotexter
+一个基于c的文本编辑器
+使用的是Linux环境下的gcc，直接make即可编译生成可以执行程序
